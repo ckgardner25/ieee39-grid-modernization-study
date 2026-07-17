@@ -7,3 +7,6 @@ As renewable energy becomes a larger part of modern power grids, maintaining sys
 To complement the transmission study, OpenDSS and Python will be used to perform Quasi-Static Time Series (QSTS) simulations on a distribution feeder. These simulations will evaluate photovoltaic hosting capacity and investigate how Volt-VAR control and Static VAR Compensators (SVCs) can improve voltage regulation and overall system performance.
 Finally, N-1 contingency analysis and Optimal Power Flow (OPF) studies will be performed to identify vulnerable areas of the power system, evaluate thermal overloads and congestion, and investigate engineering solutions that improve grid reliability and renewable energy integration.
 
+## Progress
+- Beginning to develop the 39-bus design
+- finishing design methodology and notes
